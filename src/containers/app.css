@@ -1,0 +1,11 @@
+.container {
+  margin: 0 auto;
+  height: 78.5vh;
+  width: 78.5vw;
+  overflow-x: hidden;
+  overflow-y: visible;
+  border: 2px solid cornflowerblue;
+  box-sizing: content-box;
+  border-radius: 10px;
+  scrollbar-width: inherit;
+}
